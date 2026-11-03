@@ -246,7 +246,7 @@ R/01_load_data.R
 Once developed, launch the dashboard using:
 
 ```r
-shiny::runApp("app")
+shiny::runApp("04-app")
 ```
 
 ## 🎯 Expected Outcomes
